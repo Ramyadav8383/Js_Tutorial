@@ -169,3 +169,17 @@
 // console.log(random2);
 // console.log(amount);
 // console.log(number);
+
+// -------------------------------------
+// 12_implicit type conversion
+// string concatination
+const name = "ram";
+const lastName = "yadav";
+const fullName = name + " " + lastName;
+console.log(fullName);
+
+// number concatination
+const number = 20;
+const number2 = 30;
+const result = number + number2;
+console.log(result);
