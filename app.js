@@ -41,3 +41,75 @@
 // Name = "pidoori";
 // console.log(address, zip, state);
 // console.log(Name);
+
+// --------------------------------------------
+// 05_variables Naming
+// can contain digits, letters, underscore, $
+// must start with letter, $ or _
+
+// no Keyword
+// cannot start with numbers
+// case sensitive - Fullname vs fullname
+
+// camelCase or underscore
+
+// let random123_$ = "random";
+// let Random123$ = "random2";
+// console.log(random123_$);
+// console.log(Random123$);
+
+// --------------------------------------
+// 06_const,let,var
+// using var
+// var value = "some value";
+// value = "some More Value";
+
+// using let
+// let name = "Ram";
+// name = "Harry";
+
+// using const (constant)  -can't Re-assign
+// const lastName = "Narayan";
+
+// console.log(value);
+// console.log(name);
+// console.log(lastName);
+
+// --------------------------------------
+// 07_variable_challange
+// variable #1
+// let firstName = "ram";
+// let address = "main street";
+// address = "first street";
+// console.log(firstName);
+// console.log(address);
+
+// variable #2
+// let street = "main street";
+// let country = "India";
+// let fullMailingAddress = street + country;
+// console.log(fullMailingAddress);
+
+// 08_quotation marks
+// " " or ' '
+// ``
+// const Name = "Ram's Narayan yadav";
+// console.log(Name);
+
+// ---------------------------------
+// 09_string conactination
+// string concatination - Combine String values
+// `` - backticks (template strings) easier option.
+
+// const name = "ram";
+// const lastName = "Yadav";
+
+// let fullName = name + " " + lastName;
+
+// console.log("hello there your full name is: " + fullName);
+
+const website = "google";
+
+const url = "https://www." + website + ".com";
+
+console.log(url);
