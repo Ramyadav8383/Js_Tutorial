@@ -108,8 +108,64 @@
 
 // console.log("hello there your full name is: " + fullName);
 
-const website = "google";
+// const website = "google";
 
-const url = "https://www." + website + ".com";
+// const url = "https://www." + website + ".com";
 
-console.log(url);
+// console.log(url);
+
+// ---------------------------------------
+// 10_number_basics
+// numbers
+// loosely Typed = don't declare type
+// const number = 40;
+// let dummy = 1.234;
+// dummy = "hey bro";
+// const number2 = 1.456;
+// const number3 = "1.456";
+// basic mathematic operations
+// const add = number + number2;
+// const sub = number - number2;
+// const mul = number * number2;
+// const div = number / number2;
+
+// console.log(add);
+// console.log(sub);
+// console.log(mul);
+// console.log(div);
+// console.log(number);
+// console.log(number2);
+// console.log(number3);
+
+// --------------------------------------
+// 11_number_additional
+// Numbers
+// += ,-=, /=, *=, ++, --, %
+// modulus (%) operator returns the remainder after integer division
+// let number = 40;
+// number += 5;
+// number += 5;
+// number += 5;
+// number += 5;
+// number += 5;
+// number += 5;
+// number += 5;
+// number -= 5;
+// number++;
+// number++;
+// number--;
+
+// modulus
+// const slices = 10;
+// const children = 3;
+// const amount = slices % children;
+// const amount = slices / children;
+
+// random operation
+// const random = 4 + 6 + 10 * 10;
+// const random2 = (4 + 6 + 10) * 10;
+
+// console.log(random);
+// console.log(random2);
+// console.log(amount);
+// console.log(number);
