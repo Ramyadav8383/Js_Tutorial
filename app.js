@@ -173,13 +173,57 @@
 // -------------------------------------
 // 12_implicit type conversion
 // string concatination
-const name = "ram";
-const lastName = "yadav";
-const fullName = name + " " + lastName;
-console.log(fullName);
+// const name = "ram";
+// const lastName = "yadav";
+// const fullName = name + " " + lastName;
+// console.log(fullName);
 
 // number concatination
-const number = 20;
-const number2 = 30;
-const result = number + number2;
-console.log(result);
+// const number = 20;
+// const number2 = 30;
+// const result = number + number2;
+// console.log(result);
+
+// const value = name - lastName;
+// console.log(value);
+
+// let number3 = 10;
+// let number4 = 40;
+
+// number4 = "40";
+
+// const result2 = number3 - number4;
+// const result2 = number3 / number4;
+// const result2 = number3 + number4;
+// console.log(result2);
+
+// const randomNumber = 13;
+// document.querySelector(".form").addEventListener("submit", function (e) {
+//   e.preventDefault();
+//   let value = document.getElementById("amount").value;
+//   value = parseInt(value);
+//   console.log("input value Type");
+//   console.log(value);
+//   console.log("sum of two values");
+//   console.log(randomNumber + value);
+// });
+
+// --------------------------------------
+// 13_datatypes in js
+// Data Types - 7 Total
+// Primitive - String, Number, Boolean, Null, Undefined, Symbol
+//object - Arrays, Functions, Objects
+
+//typeof- operator (typeof variables) (typeof value)
+
+// string
+
+// number
+
+// Boolean
+
+// Null
+
+// Undefined
+
+// symbol(ES6)
